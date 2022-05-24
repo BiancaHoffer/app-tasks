@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AppTarefas",
+    "slug": "AppTarefas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
